@@ -1,0 +1,9 @@
+/* CSS written by Alec Johnson */
+
+/* GLOBAL STYLES (MOBILE FIRST) */
+
+body {
+	display: grid;
+	grid-template-columns: 1fr;
+	background-color: lavender;
+}
